@@ -343,7 +343,7 @@ def growth_analysis():
 def discounted_cf():
     #Input data on the company
     rror = float(input('Enter the porfolio required rate of return(%):'))
-    tgr = float(input('Enter the terminal growth rate(%):')) 
+    tgr = 4.0 #Historical terminal growth rate
     growth_rate = float(input('Enter inital growth rate:'))
     #Calculate the buy price per share using NPV
     def buypershare():
