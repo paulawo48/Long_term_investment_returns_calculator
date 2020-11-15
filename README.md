@@ -7,6 +7,7 @@ The jupyter notebook scripts focus on forecasting the growth of a company over a
 
 Future considerations:
 1. Using a better API, such as 'Financial modelling prep' to get current,rather than delayed, market data.
+2. Highlighting when a particular criteria isn't met and further research is required.
 2. Building a larger database by collecting indicators for the same company in multiple year and repeating for all the companies within the market.
 3. The collection of reports/articles, detailing the history of management. 
 
